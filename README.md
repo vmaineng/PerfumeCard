@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# Frontend Mentor - Product preview card component 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+This challenge originated from Frontend Mentor. I wanted to challenge myself to use Reactjs to make a landing page exactly like their final product.
 
-## Available Scripts
+### The challenge
 
-In the project directory, you can run:
+Users should be able to:
 
-### `npm start`
+- View the optimal layout depending on their device's screen size (mobile or desktop)
+- See hover and focus states for interactive elements
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Screenshot
+Desktop view:
+<img width="1066" alt="desktop view" src="https://user-images.githubusercontent.com/100221733/192040404-46600ea8-7bff-49a4-94eb-706db7b3ff99.png">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Mobile view:
+<img width="382" alt="mobile" src="https://user-images.githubusercontent.com/100221733/192040843-1c17e396-9e35-48a0-b22c-18a3c7eea5ca.png">
 
-### `npm test`
+### Links
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Solution URL: https://github.com/vmaineng/ProductCard
+- Live Site URL: [Add live site URL here]
 
-### `npm run build`
+## My process
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Built with
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [React](https://reactjs.org/) - JS library
+- Chakra UI
+- iFrame
+### What I learned
 
-### `npm run eject`
+1. Chakra UI needs to be updated to version 2 to work with React v18.
+2. Need to create a second box to insert description on the right of the picture
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Continued development
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+I would like to make this into database where I can iterate over and pass down as props.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Useful resources
 
-## Learn More
+Chakra UI: https://chakra-ui.com/getting-started
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Author
+Mai Vang
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Github: https://github.com/vmaineng
+2. Medium: https://medium.com/@vmaineng
+3. LinkedIn: https://www.linkedin.com/in/mai-vang-software-engineer/
+4. Email: vmaineng@gmail.com
